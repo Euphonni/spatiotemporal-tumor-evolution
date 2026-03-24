@@ -1,0 +1,24 @@
+R version 4.5.1 (2025-06-13)
+Platform: aarch64-apple-darwin20 (macOS Sequoia 15.1)
+
+Matrix products: default
+BLAS: Accelerate framework
+LAPACK: version 3.12.1
+
+Locale: en_US.UTF-8
+Time zone: Asia/Shanghai
+
+Attached packages:
+- dplyr 1.1.4
+- ggplot2 4.0.0
+- FNN 1.1.4.1
+- stringr 1.6.0
+- Ckmeans.1d.dp 4.3.5
+
+Other important dependencies:
+- vctrs 0.6.5
+- rlang 1.1.6
+- tibble 3.3.0
+- scales 1.4.0
+- viridisLite 0.4.2
+- Rcpp 1.1.0
